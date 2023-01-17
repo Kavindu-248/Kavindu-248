@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Colombo, SriLanka
+* 🌍  Heavy Tech Enthusiast
 * ✉️  You can contact me at [kavindu2331@gmail.com](mailto:kavindu2331@gmail.com)
 * 🧠  I'm learning the MERN Stack
 * 🤝  I'm open to collaborating on Any value-driven project
