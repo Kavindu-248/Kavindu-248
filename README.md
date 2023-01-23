@@ -6,8 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Colombo, SriLanka
 * ✉️  You can contact me at [kavindu2331@gmail.com](mailto:kavindu2331@gmail.com)
-* 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on Any value-driven project
+* 🧠  I'm  currently learning Django
+* 🤝  Code -> Software ->> Value
 * ⚡  The Dress was indeed White and Gold
 
 <a href="https://www.github.com/Kavindu-248" target="_blank" rel="noreferrer"><img
