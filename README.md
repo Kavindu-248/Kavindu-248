@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Colombo, SriLanka
 * ✉️  You can contact me at [kavindu2331@gmail.com](mailto:kavindu2331@gmail.com)
-* 🧠  I'm  currently learning Elixir
+* 🧠  I'm  currently learning Elixir, Go
 * 🤝  Code -> Software ->> Value
 * ⚡  The Dress was indeed White and Gold
 
