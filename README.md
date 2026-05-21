@@ -1,7 +1,7 @@
 ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kavindu Fernando
+![Typing Animation](https://waveify.onrender.com/api/typing/gradient?text=Hi+My+name+is+Kavindu+Fernando&speed=35&color=%23ff0080&backgroundColor=%230a0a0a&fontSize=32&fontFamily=JetBrains+Mono%2C+monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=gradient&prompt=%24+&glowEffect=true)
 ========================================================================================================================================
 
 Software Developer
